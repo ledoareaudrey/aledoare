@@ -7,8 +7,8 @@
 - 📄 I have a solid background in marketing with passion for Analysis, Data visualisation and Coding.
 
 - 📝 Main studies :
-- **Le Wagon 2024 => Bootcamp in Data Analytics**
-- **Toulouse Business School PGE 2017 => Master in Marketing and Management**
+  - **Le Wagon 2024 => Bootcamp in Data Analytics**
+  - **Toulouse Business School PGE 2017 => Master in Marketing and Management**
 
 - 📫 How to reach me **ledoareaudrey@gmail.com**
 
